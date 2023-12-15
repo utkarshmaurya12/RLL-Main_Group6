@@ -1,2 +1,2 @@
 RLL Group - 6 
-in Documents folder -- PPT , Daily sprint check, Excel test cases
+In RLL-Documents folder -- PPT , Daily sprint check, Excel test cases
